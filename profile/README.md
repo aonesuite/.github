@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="../main/aonesuite.svg">
+  <img width="300" src="https://raw.githubusercontent.com/aonesuite/.github/main/aonesuite.svg">
 </p>
 
 # Less is more.
